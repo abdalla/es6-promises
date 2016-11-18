@@ -46,4 +46,7 @@ myPromise.then(() => {
 
 //==> console will show "Rejected"
 ```
-
+### How to run
+```
+node index.js
+```
